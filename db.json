@@ -1,0 +1,28 @@
+{
+  "grupoMuscular": "peito",
+  "dataInicio": "",
+  "exercicios": [
+    {
+      "nome": "SUPINO RETO",
+      "repeticoes": "1X15 1X12 1X10 1X8 1X6",
+      "carga": "máximo e vai diminuindo",
+      "orientacoes": [
+        "SUPINO RETO 1",
+        "SUPINO RETO 2",
+        "SUPINO RETO 3"
+      ],
+      "video": "https://youtu.be/rGc9PbmLUY4"
+    },
+    {
+      "nome": "CRUCIFIXO HORIZONTAL NEUTRO",
+      "repeticoes": "3 X 10",
+      "carga": "máximo",
+      "orientacoes": [
+        "Orientação CRUCIFIXO HORIZONTAL 1",
+        "Orientação CRUCIFIXO HORIZONTAL 2",
+        "Orientação CRUCIFIXO HORIZONTAL 3"
+      ],
+      "video": "https://youtu.be/O_FwRxa-hJo"
+    }
+  ]
+}
