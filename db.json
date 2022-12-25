@@ -29,6 +29,51 @@
         "video": "https://youtu.be/O_FwRxa-hJo",
         "videoId":"O_FwRxa-hJo",
         "image": "https://user-images.githubusercontent.com/66516553/209474109-60ec9b0d-2ea0-494d-a644-f103b2b7335f.png"  
+      },
+      {
+        "grupoMuscular": "ombros",
+        "dataInicio": "2022-12-25",
+        "nome": "DESENVOL.ARTICULADO 2pegadas",
+        "repeticoes": "3 X 10",
+        "carga": "sem exagerar",
+        "orientacoes": [
+          "Orientação DESENVOL.ARTICULADO 1",
+          "Orientação DESENVOL.ARTICULADO 2",
+          "Orientação DESENVOL.ARTICULADO 3"
+        ],
+        "video": "https://youtu.be/k0gD4uBjayA",
+        "videoId":"k0gD4uBjayA",
+        "image": "https://user-images.githubusercontent.com/66516553/209474109-60ec9b0d-2ea0-494d-a644-f103b2b7335f.png"  
+      },
+      {
+        "grupoMuscular": "pernas",
+        "dataInicio": "2022-12-25",
+        "nome": "AGACH.SQUAT",
+        "repeticoes": "4 X 10",
+        "carga": "aumentar",
+        "orientacoes": [
+          "Orientação AGACH.SQUAT 1",
+          "Orientação AGACH.SQUAT 2",
+          "Orientação AGACH.SQUAT 3"
+        ],
+        "video": "https://youtu.be/pc9tkM2mVAs",
+        "videoId":"pc9tkM2mVAs",
+        "image": "https://user-images.githubusercontent.com/66516553/209474109-60ec9b0d-2ea0-494d-a644-f103b2b7335f.png"  
+      },
+      {
+        "grupoMuscular": "costas",
+        "dataInicio": "2022-12-25",
+        "nome": "PUXADA TRIANGULO",
+        "repeticoes": "1X15 1X12 1X10 1X8 1X6",
+        "carga": "aumentar",
+        "orientacoes": [
+          "Orientação AGACH.SQUAT 1",
+          "Orientação AGACH.SQUAT 2",
+          "Orientação AGACH.SQUAT 3"
+        ],
+        "video": "https://www.youtube.com/watch?v=qW3-gblri0g",
+        "videoId":"qW3-gblri0g",
+        "image": "https://user-images.githubusercontent.com/66516553/209474109-60ec9b0d-2ea0-494d-a644-f103b2b7335f.png"  
       }
     ]
 }
