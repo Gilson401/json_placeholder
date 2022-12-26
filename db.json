@@ -1,7 +1,7 @@
 {
     "exercicios": [
       {
-        "grupoMuscular": "peito",
+        "grupoMuscular": "Peito e Tríceps",
         "dataInicio": "2022-12-25",
         "nome": "SUPINO RETO",
         "repeticoes": "1X15 1X12 1X10 1X8 1X6",
@@ -16,7 +16,7 @@
         "image": "https://user-images.githubusercontent.com/66516553/209474069-38b92555-b6e5-43ea-8210-956b8d15c6c7.png"  
       },
       {
-        "grupoMuscular": "peito",
+        "grupoMuscular": "Peito e Tríceps",
         "dataInicio": "2022-12-25",
         "nome": "CRUCIFIXO HORIZONTAL NEUTRO",
         "repeticoes": "3 X 10",
@@ -31,7 +31,7 @@
         "image": "https://user-images.githubusercontent.com/66516553/209474109-60ec9b0d-2ea0-494d-a644-f103b2b7335f.png"  
       },
       {
-        "grupoMuscular": "ombros",
+        "grupoMuscular": "Ombros",
         "dataInicio": "2022-12-25",
         "nome": "DESENVOL.ARTICULADO 2pegadas",
         "repeticoes": "3 X 10",
@@ -46,7 +46,7 @@
         "image": "https://user-images.githubusercontent.com/66516553/209474109-60ec9b0d-2ea0-494d-a644-f103b2b7335f.png"  
       },
       {
-        "grupoMuscular": "pernas",
+        "grupoMuscular": "Pernas",
         "dataInicio": "2022-12-25",
         "nome": "AGACH.SQUAT",
         "repeticoes": "4 X 10",
@@ -61,7 +61,7 @@
         "image": "https://user-images.githubusercontent.com/66516553/209474109-60ec9b0d-2ea0-494d-a644-f103b2b7335f.png"  
       },
       {
-        "grupoMuscular": "costas",
+        "grupoMuscular": "Bíceps Costas",
         "dataInicio": "2022-12-25",
         "nome": "PUXADA TRIANGULO",
         "repeticoes": "1X15 1X12 1X10 1X8 1X6",
